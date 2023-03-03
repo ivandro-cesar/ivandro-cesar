@@ -1,14 +1,3 @@
-# ivandro-cesar 🍟
-## cabeçalho secundário
-
-*texto em itálico*
-
-**texto em negrito**
-
-* Lista
-* Item 2
-* Item 3
-    * Subitem 1
-    * Subitem 2
-
-![Uma imagem](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Emblema.png)
+# Ivandro Cesar
+<img src="https://cdn-icons-png.flaticon.com/512/36/36164.png" width="100px">
+<img src="https://cdn-icons-png.flaticon.com/512/75/75237.png" width="100px" height="">
